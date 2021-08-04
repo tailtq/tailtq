@@ -7,9 +7,9 @@ I'm a software engineer. Besides Back-End and Infrastructure, I'm also intereste
 I enjoy playing chess
 
 - 🔭 I’m currently building my blog, learning new courses, and doing my pet projects
-- 🌱 I’m currently learning in:
+- 🌱 I’m currently learning:
   - Computer Science at University of the People
-  - Data Structures and Algorithms Specialization on Coursera
+  - Data Structures and Algorithms Specialization course taught by University of California San Diego
 - 😄 I want to automate things to give me time to procrastinate
 - :running: I enjoy jogging, playing chess, and reading book in my free time
 
