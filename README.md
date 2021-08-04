@@ -14,7 +14,7 @@ I enjoy playing chess
 - :running: I enjoy jogging, playing chess, and reading book in my free time
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 400px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tailtq&count_private=true&show_icons=true&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tailtq&count_private=true&show_icons=true&hide_rank=true&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailtq&layout=compact" />
