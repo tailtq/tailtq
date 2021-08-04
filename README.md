@@ -3,7 +3,7 @@
 <!--
 **tailtq/tailtq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a software engineer. Besides Back-End and Infrastructure, I'm also interested in large scale problems, software design, DB, VR, and AI.
+I'm a Software engineer and AI engineer. Besides Back-End and Infrastructure, I'm also interested in large scale problems, software design, DB, VR, and AI.
 
 - 🔭 I’m currently building my blog, learning new courses, and doing pet projects
 - 🌱 I’m currently learning:
