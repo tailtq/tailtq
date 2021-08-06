@@ -11,6 +11,7 @@ I'm a Software engineer and AI engineer. Besides Back-End and Infrastructure, I'
   - [Data Structures and Algorithms Specialization course](https://www.coursera.org/specializations/data-structures-algorithms)
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98)
 - :running: I enjoy jogging, playing chess, and reading books in my free time
+  - :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98)
 - 😄 I want to automate things to give me time to procrastinate
 
 You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to interesting coversations and collaboration.
