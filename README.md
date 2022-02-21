@@ -19,6 +19,3 @@ You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to intere
 <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 400px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tailtq&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailtq&layout=compact" />
-</a>
