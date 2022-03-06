@@ -8,7 +8,6 @@ I'm a Software engineer and AI engineer. Besides Back-End and AI, I'm also inter
 - 🔭 I’m currently building my blog, learning new courses, and doing pet projects
 - 🌱 I’m currently learning:
   - Computer Science at University of the People
-  - [Data Structures and Algorithms Specialization course](https://www.coursera.org/specializations/data-structures-algorithms)
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98)
 - :running: I enjoy jogging, playing chess, and reading books in my free time
   - :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98)
