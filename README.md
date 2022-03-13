@@ -5,7 +5,7 @@
 -->
 I'm a Software engineer and AI engineer. Besides Back-End and AI, I'm also interested in solving large-scale problems, Software Design, Blockchain, DB, and VR.
 
-- :man_technologist: I’m currently working at ![@ParadoxAI](https://github.com/ParadoxAI).
+- :man_technologist: I’m currently working at [@ParadoxAI](https://github.com/ParadoxAI).
 - 🔭 In my free time, I build my blog, learn new technologies, do pet projects, and find a girlfriend.
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98)
 - 🌱 Education:
