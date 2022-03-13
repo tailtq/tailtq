@@ -3,14 +3,16 @@
 <!--
 **tailtq/tailtq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a Software engineer and AI engineer. Besides Back-End and AI, I'm also interested in solving large-scale problems, software design, DB, and VR.
+I'm a Software engineer and AI engineer. Besides Back-End and AI, I'm also interested in solving large-scale problems, Software Design, Blockchain, DB, and VR.
 
-- 🔭 I’m currently building my blog, learning new courses, and doing pet projects
-- 🌱 I’m currently learning:
-  - Computer Science at University of the People
+- :man_technologist: I’m currently working at ![@ParadoxAI](https://github.com/ParadoxAI).
+- 🔭 In my free time, I build my blog, learn new technologies, do pet projects, and find a girlfriend.
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98)
+- 🌱 Education:
+  - I'm learning Computer Science at University of the People
+  - I graduated from Aptech in 2020
 - :running: I enjoy jogging, playing chess, and reading books in my free time
-  - :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98)
+- :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98)
 - 😄 I want to automate things to give me time to procrastinate
 
 You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to interesting coversations and collaboration.
