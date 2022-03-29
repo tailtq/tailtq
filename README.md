@@ -8,13 +8,13 @@ I'm a Software Engineer. Besides Back-end, I'm also interested in solving large-
 - :man_technologist: I’m currently working at [@ParadoxAI](https://github.com/ParadoxAI).
 - 🔭 In my free time, I build my blog, learn new technologies, do pet projects, and find a girlfriend.
 - :lion: My goal is to go to Singapore before I turn 30.
-- :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98)
+- :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98).
 - 🌱 Education:
-  - I'm learning Computer Science at University of the People
-  - I graduated from Aptech in 2020
-- :running: I enjoy jogging, playing chess, and reading books in my free time
-- :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98)
-- 😄 I want to automate things to give me time to procrastinate
+  - I'm learning Computer Science at University of the People.
+  - I graduated from Aptech in 2020.
+- :running: I enjoy jogging, playing chess, and reading books in my free time.
+- :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98).
+- 😄 I want to automate things to give me time to procrastinate.
 
 You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to interesting coversations and collaboration.
 
