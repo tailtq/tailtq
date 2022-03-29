@@ -3,10 +3,11 @@
 <!--
 **tailtq/tailtq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a Software engineer and AI engineer. Besides Back-End and AI, I'm also interested in solving large-scale problems, Software Design, Blockchain, DB, and VR.
+I'm a Software Engineer. Besides Back-end, I'm also interested in solving large-scale problems, Software Design, AI, Blockchain, DB, and VR.
 
 - :man_technologist: I’m currently working at [@ParadoxAI](https://github.com/ParadoxAI).
 - 🔭 In my free time, I build my blog, learn new technologies, do pet projects, and find a girlfriend.
+- :lion: My goal is to go to Singapore before I turn 30.
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98)
 - 🌱 Education:
   - I'm learning Computer Science at University of the People
