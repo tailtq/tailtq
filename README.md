@@ -18,7 +18,7 @@ I'm a Software Engineer. Besides Back-end, I'm also interested in solving large-
 
 You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to interesting coversations and collaboration.
 
-__My Hackerrank__
+### Hackerrank
 ![Hackerrank](https://raw.githubusercontent.com/tailtq/tailtq/main/hackerrank.png)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 400px">
