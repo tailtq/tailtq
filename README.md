@@ -10,7 +10,8 @@ I'm a Software Engineer. Besides Back-end, I'm also interested in solving large-
 - :lion: My goal is to go to Singapore before I turn 30.
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98).
 - 🌱 Education:
-  - I'm learning Computer Science at the University of the People (GPA 4.0).
+  - I'm learning IELTS right now 🇬🇧
+  - I finished Computer Science at the University of the People (GPA 4.0).
   - I graduated from Aptech in 2020 (Distinction).
   - I learn whenever I have free time.
   - Here are [my certificates](https://drive.google.com/drive/folders/1bf3vVO44IP3OCE1uaud4xk-MHfpgumxc?usp=sharing).
@@ -20,7 +21,4 @@ I'm a Software Engineer. Besides Back-end, I'm also interested in solving large-
 
 You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to interesting conversations and collaboration.
 
-[![tailtq's GitHub | Stats](https://stats.quine.sh/tailtq/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tailtq)
-
-### :crossed_swords: Hackerrank
-![Hackerrank](https://raw.githubusercontent.com/tailtq/tailtq/main/hackerrank.png)
+<img src="https://myreadme.vercel.app/api/embed/tailtq?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
