@@ -6,7 +6,7 @@
 I'm a Software Engineer. Besides Back-end, I'm also interested in solving large-scale problems, Software Design, AI, Blockchain, DB, and VR.
 
 - :man_technologist: I’m currently working at [@ParadoxAI](https://github.com/ParadoxAI).
-- 🔭 In my free time, I build my blog, learn new technologies, do pet projects, and find a girlfriend.
+- 🔭 In my free time, I build my blog, learn new technologies, and do pet projects.
 - :lion: My goal is to go to Singapore before I turn 30.
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98).
 - 🌱 Education:
