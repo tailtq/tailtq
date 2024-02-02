@@ -7,15 +7,16 @@ I'm a Software Engineer. Besides Back-end, I'm also interested in solving large-
 
 - :man_technologist: I’m currently working at [@ParadoxAI](https://github.com/ParadoxAI).
 - 🔭 In my free time, I build my blog, learn new technologies, and do pet projects.
-- :lion: My goal is to go to Singapore before I turn 30.
+- :lion: My goal is to work in Singapore before I turn 30.
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98).
 - 🌱 Education:
-  - I'm learning IELTS right now 🇬🇧
+  - I'm learning blockchain & AWS Solution Architect.
+  - I got a 7.5 in IELTS 🇬🇧.
   - I finished Computer Science at the University of the People (GPA 4.0).
   - I graduated from Aptech in 2020 (Distinction).
-  - I learn whenever I have free time.
+  - I learn whenever I'm free.
   - Here are [my certificates](https://drive.google.com/drive/folders/1bf3vVO44IP3OCE1uaud4xk-MHfpgumxc?usp=sharing).
-- :running: I enjoy jogging, playing chess, and reading books in my free time.
+- :running: I enjoy jogging, playing chess, reading books, and watching movies in my free time.
 - :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98).
 - 😄 I want to automate things to give me time to procrastinate.
 
