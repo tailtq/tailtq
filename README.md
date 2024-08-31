@@ -22,4 +22,4 @@ I'm a Software Engineer. Besides back-end, I'm also interested in solving large-
 
 You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to interesting conversations and collaboration.
 
-<img src="https://myreadme.vercel.app/api/embed/tailtq?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api?username=tailtq&show_icons=true&theme=dark&title_color=79ff97&rank_icon=percentile" alt="reimaginedreadme" />
