@@ -23,6 +23,6 @@ I'm a Software Engineer. Besides back-end, I'm also interested in solving large-
 You can reach me via [email](mailto:ltquoctaidn98@gmail.com). I'm open to interesting conversations and collaboration.
 
 <div style="display: flex;">
- <img style="margin-right: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tailtq&theme=github" alt="profile-details" style="display:block;"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailtq&hide=shell,jupyter%20notebook,java,html,css,scss,tex,c%23&count_weight=1&size_weight=0" alt="top-languages-used" style="display:block;"/>
+ <img style="margin-right: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tailtq&theme=github" alt="profile-details"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailtq&hide=shell,jupyter%20notebook,java,html,css,scss,tex,c%23&count_weight=1&size_weight=0" alt="top-languages-used"/>
 </div>
