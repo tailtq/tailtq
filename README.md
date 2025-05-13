@@ -10,11 +10,12 @@ I'm a Software Engineer. Besides back-end, I'm also interested in solving large-
 - :lion: My goal is to work in Singapore before I turn 30.
 - :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98).
 - 🌱 Education:
-  - I'm learning blockchain & AWS Solution Architect.
+  - I'm still learning & working.
   - I got a 7.5 in IELTS 🇬🇧.
+  - I got the AWS SAA-C03 in 2025
+  - I worked on blockchain for a year (build airdrop tools + smart contract using Solidity)
   - I finished Computer Science at the University of the People (GPA 4.0).
   - I graduated from Aptech in 2020 (Distinction).
-  - I learn whenever I'm free.
   - Here are [my certificates](https://drive.google.com/drive/folders/1bf3vVO44IP3OCE1uaud4xk-MHfpgumxc?usp=sharing).
 - :running: I enjoy jogging, playing chess, reading books, and watching movies in my free time.
 - :chess_pawn: Check out my [Chess account](https://www.chess.com/member/ltquoctaidn98).
