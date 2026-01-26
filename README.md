@@ -7,7 +7,6 @@ I'm a Software Engineer. Besides back-end, I'm also interested in solving large-
 
 - :man_technologist: I’m currently working at [@ParadoxAI](https://github.com/ParadoxAI).
 - 🔭 In my free time, I build my blog, learn new technologies, and do pet projects.
-- :crossed_swords: Check out my [Hackerrank account](https://www.hackerrank.com/ltquoctaidn98).
 - 🌱 Education:
   - I'm still learning & working.
   - I got a 7.5 in IELTS 🇬🇧.
